@@ -2,7 +2,7 @@
   "name": "unittests",
   "version": "1.0.0",
   "dependencies": {
-    "@types/node": "^14.14.9",
+    "@types/node": "^16.9.1",
     "ethers": "^5.0.20",
     "ganache-cli": "^6.12.1",
     "js-conflux-sdk": "^1.1.1",
