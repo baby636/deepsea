@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@types/node": "^14.14.9",
-    "ethers": "^5.0.20",
+    "ethers": "^6.0.0",
     "ganache-cli": "^6.12.1",
     "js-conflux-sdk": "^1.1.1",
     "js-yaml": "^3.14.0",
